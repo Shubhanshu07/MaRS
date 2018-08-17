@@ -12,4 +12,4 @@ Everytime when we shop some dresses/clothes, how is that if we try them virtuall
 
 Virtual trial room is a simple human machine interface. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses of his/her choice.We have used Xbox Kinect as my sensor to detect body movements and gestures. <br><br>
 
-For more information please<a href= "https://github.com/marsiitr/Virtual-Trial-Room">Click here</a>.</p>
+For more information please <a href= "https://github.com/marsiitr/Virtual-Trial-Room">Click here</a>.</p>

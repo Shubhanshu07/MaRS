@@ -12,7 +12,7 @@ tags: [Srishti]
 
 Balls were loaded in a cylinder like structure above the hitting arm.Cylinder had a capacity of 5 balls max.Each time the arm was pulled for hitting , one ball came down from the Cylinder and it was hitted by the arm. We use a elevation at the place from where the balls came out to improve the trajectory of the balls.
 
-For more information <a href ="https://github.com/marsiitr/Gun-Slingers"> Click Here</a></p>
+For more information please <a href ="https://github.com/marsiitr/Gun-Slingers"> Click Here</a></p>
 
 
 

@@ -12,4 +12,4 @@ The aim of the project is to make a four leged robot which mimics the locomotion
 <br><br>
 The bot consits of 4 servo motors mounted on 3D printed base as a leg joints. and 1 servo for for each leg. the movement of leg controlled by 2 sevos. and all servos are synced by using microcontroller Arduino nano.</p>
 
-For more information please<a href="https://github.com/marsiitr/Kitty-Robot">Click here</a>.
+For more information please <a href="https://github.com/marsiitr/Kitty-Robot">Click here</a>.

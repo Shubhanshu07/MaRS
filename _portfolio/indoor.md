@@ -12,4 +12,4 @@ date: September 2014
 Gardening is a tiresome, more or less a bit time consuming activity, more than turning switches on/off. So with the motive of bringing automation in the field of gardening we started with a small indoor garden project.
 </p>
 <br>
-For more information please<a href="https://github.com/marsiitr/Indoor-Garden">Click here</a>.
+For more information please <a href="https://github.com/marsiitr/Indoor-Garden">Click here</a>.

@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/MaRS-Website"
+baseurl: "/MaRS"
 url: "https://Shubhanshu07.github.io"
 title: MaRS # site's title
 description: "Models and Robotics Section,IITR" # used by search engines
